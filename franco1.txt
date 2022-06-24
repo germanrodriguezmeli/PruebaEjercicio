@@ -1,3 +1,9 @@
 Actualizo mi archivo!!!
 
+<<<<<<< HEAD
 Modificación de Franco!!
+=======
+
+soy german y agregue esta linea
+
+>>>>>>> e1332fffe32bb892da91f8b3460820449d202b4a
